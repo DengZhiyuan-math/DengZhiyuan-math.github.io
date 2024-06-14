@@ -11,4 +11,4 @@ I am a Ph.D student advised by [Prof. Gorodnik](https://www.math.uzh.ch/gorodnik
  
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](dengzymathnt@outlook.com) 
+[Email](dengzymathnt@outlook.com): dengzymathntnt@outlook.com. 
