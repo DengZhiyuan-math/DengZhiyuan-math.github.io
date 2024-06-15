@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Zurich"
-date: 2023 Spring 
+date: 2023-02-19 
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
